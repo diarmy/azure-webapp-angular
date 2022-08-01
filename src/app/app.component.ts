@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'azure-webapp-angular';
+  title = 'My Angular Static Web App is running';
 }
